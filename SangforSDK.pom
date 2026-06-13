@@ -10,7 +10,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.gitcbs</groupId>
   <artifactId>sangforsdk</artifactId>
-  <version>2.4.10.1_0430</version>
+  <version>2.5.16.6_1115</version>
   <packaging>aar</packaging>
   <name>SangforSDK</name>
   <description>Includes FFmpeg with dav1d, fontconfig, freetype, fribidi, gmp, gnutls, kvazaar, lame, libass, libiconv, libilbc, libtheora, libvid.stab, libvorbis, libvpx, libwebp, zimg, libxml2, opencore-amr, opus, shine, snappy, soxr, speex, twolame, vo-amrwbenc, x264, x265 and xvidcore libraries enabled.</description>
